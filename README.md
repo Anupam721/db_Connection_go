@@ -1,7 +1,7 @@
 # db_Connection_go
 Simple, working code to connect and send queries to a DB and retrieve results. Uses golang
 
-# Env setup (ubuntu)
+# Env setup and execution (ubuntu)
 1. Install go.
 2. Install mysql (I used DigitalOcean guide)
 3. Setup database users and passwords.
